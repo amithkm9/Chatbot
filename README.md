@@ -1,3 +1,3 @@
-# demo
+# chatbot for AI tutorial
 first git repository
-author - amith reddy
+author - Amith Reddy
